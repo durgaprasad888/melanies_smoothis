@@ -8,7 +8,7 @@ helpful_links = [
 ]
 
 # Write directly to the app
-st.title(":cup_with_straw: Customize Your Smoothie! :cup_with_straw:")
+st.title("My parents new healthy dinner")
 st.write(
     f"""Replace the code in this example app with your own code! And if you're new to Streamlit, here are some helpful links:
     :page_with_curl: [Streamlit open source documentation]({helpful_links[0]})    
